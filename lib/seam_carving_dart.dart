@@ -1,1 +1,7 @@
-export 'src/seam_carving.dart';
+export 'src/seam_carving.dart'
+    show
+        reduceImageFromBytes,
+        reduceImageFromPath,
+        InvalidImageInputException,
+        ImageFormat,
+        ReduceOptions;
