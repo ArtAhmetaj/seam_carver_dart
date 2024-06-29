@@ -1,7 +1,7 @@
-name: seam_carving_dart
-description: A sample command-line application.
+name: seam_carver_dart
+description: Library to seam carve images
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ArtAhmetaj/seam_carver_dart
 
 environment:
   sdk: ^3.2.5

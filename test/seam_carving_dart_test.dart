@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:seam_carving_dart/src/seam_carving.dart';
+import 'package:seam_carver_dart/seam_carver_dart.dart';
 import 'package:test/test.dart';
 
 const _imagePath = "./test/resources/chrome.jpeg";

@@ -15,9 +15,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  seam_carver_dart:
-    git:
-      url: git://github.com/ArtAhmetaj/seam_carver_dart.git
+  seam_carver_dart: ^1.0.0
 ```
 
 
